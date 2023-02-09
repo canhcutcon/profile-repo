@@ -1,6 +1,10 @@
 ### Hello, I'm Giang
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-<p align="center"><img src="https://giphy.com/embed/VkMV9TldsPd28" /></p>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+</p>
 <p align="center">I am a back-end developer with a love for creating clean, efficient,
          and visually appealing applications. I have experience in multiple programming
           languages and enjoy finding creative solutions to complex problems.</p>
@@ -20,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
-## My Skill Set  
+<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
